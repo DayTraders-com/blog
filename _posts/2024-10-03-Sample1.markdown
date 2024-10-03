@@ -5,7 +5,7 @@ date:   2024-10-03 09:14:44 +0000
 categories: jekyll update
 ---
 
-###Setting clear goals is essential for achieving efficiency in funded trading. Here’s how effective goal setting can impact your trading success:
+### Setting clear goals is essential for achieving efficiency in funded trading. Here’s how effective goal setting can impact your trading success:
 
 1. **Clarity of Purpose:** Funded traders who set specific and measurable goals have a clearer sense of purpose. This clarity helps them focus on what truly matters, eliminating distractions and improving overall efficiency.
 
