@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Importance of Goal Setting for Efficient Trading"
-date:   2024-10-03 16:14:44 +0000
+date:   2024-10-03 09:14:44 +0000
 categories: jekyll update
 ---
 
